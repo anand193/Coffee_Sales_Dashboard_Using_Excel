@@ -29,7 +29,7 @@ The goal of this project was to analyze transactional coffee shop data and uncov
 - Total Monthly Sales Revenue: $698,812.33
 
 ✅ 4. Sales by Store Location
-- Location -	Revenue
+  Location -	Revenue
 - Astoria	 -  $232,243.91
 - Hell's Kitchen	- $236,511.17
 - Lower Manhattan -	$230,057.25
@@ -38,7 +38,6 @@ The goal of this project was to analyze transactional coffee shop data and uncov
 - $4.69 per person
 
 ✅ 6. Top 5 Best-Selling Products (by Revenue)
-### Product	Revenue
 - Barista Espresso	$91,406.20
 - Brewed Black Tea	$47,932.00
 - Brewed Chai Tea	$77,081.95
