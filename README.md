@@ -45,7 +45,6 @@ The goal of this project was to analyze transactional coffee shop data and uncov
 - Hot Chocolate	$72,416.00
   
 ✅ 7. Sales by Product Category (Highest and lowest)
-# Category	Revenue
 - Highest - Coffee	($269,952.45)
 - Lowest - Packaged Chocolate ($4,407.64)
 
